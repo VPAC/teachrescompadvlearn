@@ -13,5 +13,5 @@ As VPAC comes to a close, the following publication compiles some of the materia
 # The Repository
 The most recent version of this book "Teaching Research Computing to Advanced Learners" (ISBN 978-0-9943373-5-1) is kept on the VPAC github (`https://github.com/VPAC/teachrescompadvlearn`). 
 
-![ISBN Barcode](https://github.com/VPAC/teachrescompadvlearn/blob/master/isbn-978-0-9943373-5-1.png .png)
+![ISBN Barcode](https://github.com/VPAC/teachrescompadvlearn/blob/master/isbn-978-0-9943373-5-1.png)
 
